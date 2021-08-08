@@ -1,1 +1,38 @@
 /* You can add global styles to this file, and also import other style files */
+.cart-item{
+    font-size: small;
+    color: seagreen;
+}
+.filters{
+    font-size: x-small;
+    padding:5px;
+    margin:1px;
+}
+.card-header{
+    font-size: x-large;
+    color: slateblue;
+}
+.card, .form-control, .btn{
+    border-radius: 0;
+}
+
+.btn-group{
+    left:4%;
+}
+.fa-heart{
+    color: purple;
+    cursor: pointer;
+}
+.guest-form-card h3{
+    text-transform: uppercase;
+    font-size:medium;
+}
+.guest-form-card label{
+    font-size:medium
+}
+.btn-primary.disabled, .btn-primary:disabled{
+    cursor: not-allowed;
+}
+input.ng-touched.ng-invalid{
+    border: 2px solid red
+ }
