@@ -1,0 +1,365 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wayne",
+      "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "name": "Rooney",
+      "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+      "price": 340
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 2
+    },
+    {
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "pro": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 1
+    },
+    {
+      "pro": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 2
+    },
+    {
+      "pro": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 3
+    },
+    {
+      "pro": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 4
+    },
+    {
+      "pro": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 5
+    },
+    {
+      "pro": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 6
+    },
+    {
+      "pro": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 58
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 59
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 60
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 61
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 62
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 63
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 64
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 65
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 66
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 67
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 68
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 69
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 70
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 71
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 72
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 73
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 74
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 75
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 76
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 77
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 78
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 79
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Wayne",
+        "description": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA1GrrzpEetojgsPGJFH6kfUbzomM0bEYz9RbtdV2ply2nxJM2LX7fME4zJDEBPbo_i0&usqp=CAU",
+        "price": 200
+      },
+      "id": 80
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 81
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Rooney",
+        "description": "You can use JSON Server to serve your HTML, JS and CSS, simply create a ./public directory or use --static to set a different static files directory.",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EIsXD8cKUP2Sd1tDHEwTXBeDr9gKOUNCBQ&usqp=CAU",
+        "price": 340
+      },
+      "id": 82
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
